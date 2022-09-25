@@ -1,6 +1,6 @@
 
 ## 1. Lời mờ đầu
-Sau một hồi dự định toan tính với các thể loại fw blog như wix, wordpress, github.io ... Với lười biếng của bản thân thì github repo hân hạnh tài trợ cho bài viết này =))
+Sau một hồi dự định toan tính với các thể loại fw blog như wix, wordpress, github.io ... Nhưng với sự lười biếng của bản thân thì github repo hân hạnh tài trợ cho bài viết này =))
 
 <b>Chú ý</b>: Nội dung bài viết sau đây dựa trên kinh nghiệm ở tokyo nên có thể sẽ có sai khác với các vùng khác ở nhật
 
@@ -68,7 +68,7 @@ bắt buộc phải xin bản dịch + công chứng ở [đại sứ quán](htt
     - https://www.youtube.com/watch?v=WXpIYswnnTY
     - https://www.youtube.com/watch?v=s9SYjYDV8QM
     - https://www.youtube.com/watch?v=DcFz7D90RRw
-  - Vì thi tại trung tâm của cảnh sát nên sẽ được chấm và chú ý rất gắt nên phải chú ý các điểm sau: 
+  - Vì thi tại trung tâm của cảnh sát nên sẽ được chấm và chú ý rất gắt nên phải ôn tập các điểm sau: 
     - Khi lên xe và xuống xe phải kiểm tra an toàn thật kĩ [Hướng dẫn](https://www.youtube.com/watch?v=UEbQwKwz2bw)
     - Khi đổi làn hoặc rẽ phải thì cần follow theo các bước sau: check gương -> nhìn sau -> rẽ
     - Khi vào khúc cua phải giảm tốc xuống ~20km/h 
@@ -83,7 +83,7 @@ bắt buộc phải xin bản dịch + công chứng ở [đại sứ quán](htt
   - Có thể sử dụng xe đạp để luyện khả năng phả xạ nhìn trước sau trái phải khi rẽ or đổi làn
  
 ## 6. Đi thi thực hành 
-- Như đã được thuyết minh ở trung tâm thì cần chuẩn bị giấy tờ sau đây:
+- Như đã được thuyết minh ở trung tâm thì cần chuẩn bị như sau:
   1. Tất cả các giấy tờ được phát + đã chuẩn bị ở phần 1 (mà chưa bị thu)
   2. Mũ bảo hiểm. <br>Nếu không có sẽ cho mượn lần đầu, lần 2 thì đi về và chúc bạn may mắn lần sau 
   3. Găng tay không được lộ đầu ngón tay. <br>Nếu không có sẽ cho mượn lần đầu, lần 2 thì đi về và chúc bạn may mắn lần sau 
