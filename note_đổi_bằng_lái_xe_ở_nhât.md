@@ -87,7 +87,7 @@ bắt buộc phải xin bản dịch + công chứng ở [đại sứ quán](htt
   2. Mũ bảo hiểm. <br>Nếu không có sẽ cho mượn lần đầu, lần 2 thì đi về và chúc bạn may mắn lần sau 
   3. Găng tay không được lộ đầu ngón tay. <br>Nếu không có sẽ cho mượn lần đầu, lần 2 thì đi về và chúc bạn may mắn lần sau 
   4. [Optional] Nước + đồ ăn nếu thi vào lúc 12h =)) 
-- Đi thẳng khu hẹn lịch thi khi trên tầng 2. Phòng chờ nằm bên tay phải trước khu hẹn lịch 1m
+- Đi thẳng khu hẹn lịch thi khi trên tầng 2. Phòng chờ nằm bên tay trái trước khu hẹn lịch 1m
 - Trước khi thi sẽ được thuyết minh nội dung thi và kiểm tra giấy tờ khoảng 30p
 - Phòng thi sẽ có locker trước cửa có thể gửi balo ở đó trước khi lên khu vực thi 
 - Lúc thi cần phải mặc giáp ngực, giáp đầu gối + giáp tay do trung tâm chuẩn bị 
