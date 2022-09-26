@@ -39,7 +39,6 @@ bắt buộc phải xin bản dịch + công chứng ở [đại sứ quán](htt
 ## 4. Đi nộp giấy tờ
 - Nộp giấy tờ tại tầng 3 trung tâm [鮫州運転免許試験場](https://www.keishicho.metro.tokyo.lg.jp/menkyo/menkyo/kokugai/kokugai05.html)
 - Ở tokyo có tận 3 trung tâm nhưng để đổi bằng lái xe thì chỉ có duy nhất trung tâm samezu 鮫洲 chấp nhận. Điểm cộng là trung tâm này có support tiếng việt cho giấy tờ nên có thể tiết kiệm được ít neuron =)) 
-- Theo kinh nghiệm là nên đi vào giữa tuần thì các bạn sẽ không phải xếp hàng 
 - Flow nộp giấy tờ: 
   1. Nhân viên sẽ hỏi bạn là muốn đổi sang AT hay MT. 
   <br>AT là mấy xe ga của team ninja lead còn MT là xe côn tay của team bát hương vàng or trộm chó 😎
