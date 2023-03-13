@@ -102,8 +102,9 @@ Nếu có 個人番号 hãy xoá đi (hoặc làm tờ mới)
     - Rẽ check 3 điểm khỏi cần bàn. Nhưng check trước khi rẽ chứ không phải vừa check vừa đánh tay lái.
     - Rẽ trái thì ép lề trái trước (thực ra thì lúc nào cũng nên đi lề trái, khỏi ép).
     - Rẽ phải thì xi nhan, check 3 điểm để ép lề phải trước, rồi check 3 điểm khi rẽ.
-    - Gặp biển 止まれ hoặc đi vào chỗ khuất tầm nhìn, dừng 3 giây rồi check 3 điểm và rẽ.
+    - Gặp biển 止まれ hoặc đi vào chỗ khuất tầm nhìn, dừng 3 giây, dướn người lên check 2 bên đường, ok thì check 3 điểm và rẽ, có xe thì phanh chờ nó đi qua.
     - Vào bài chữ S hoặc chữ Z mà nếu cảm giác đi quá, cần lùi thì trước khi lùi phải check 6 điểm.
+    - Lưu ý chung:
         - 3 điểm (theo thứ tự): gương giữa, gương bên rẽ, nhìn bằng mắt bên rẽ
         - 5 điểm (theo thứ tự): nhìn bằng mắt bên trái, gương trái, gương giữa, gương phải, bằng mắt bên phải
         - 6 điểm: nhìn bằng mắt 2 bên, gương 2 bên, gương giữa và nhìn bằng mắt đằng sau
